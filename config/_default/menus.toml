@@ -3,15 +3,15 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Home"
-#  url = "#about"
-#  weight = 10
+[[main]]
+  name = "Home"
+  url = "#about"
+  weight = 10
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "Blog"
+  url = "https://wentaodong-blog.netlify.app/"
+  weight = 20
 
 #[[main]]
 #  name = "Projects"
