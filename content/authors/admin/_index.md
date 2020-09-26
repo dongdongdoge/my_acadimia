@@ -14,14 +14,14 @@ role: PhD Student / RA
 
 # Organizations/Affiliations
 organizations:
-- name: Monash University / CityU of HongKong
-  url: ""
+- name: Monash University
+- name: CityU of Hong Kong
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include network security, privacy, machine learning, blockchain.
 
 interests:
-- Artificial Intelligence
+- Adversary Machine Learning
 - Encrypted Database
 - Privacy Preserving Computation
 
@@ -41,16 +41,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+  link: "mailto:dongdongdoge@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+
 - icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/dongdongdoge
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,4 +62,9 @@ user_groups:
 - Visitors
 ---
 
-Stay Hungry, Stay Foolish...
+
+---
+
+Hello guys, I am wentao. Now I am an PhD Student in Monash University and full time RA in CityU of HongKong. I am interested in AI, Encrypted Database, Privacy Preserving Computation and Block Chain. Let's keep fighting!!!
+
+---

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Working Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,49 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "City University of HongKong"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Hongkong"
+  date_start = "2020-09-06"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """CS Department : Secure data sharing with advanced knowledge"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Linux Kernel Software Engineer"
+  company = "Sangfor Technologies"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Shenzhen"
+  date_start = "2020-05-01"
+  date_end = "2020-08-31"
+  description = """AF Department : NGFW, Intrusion Prevention System """
+
+[[experience]]
+  title = "Research Assistant (Remote Intern)"
+  company = "Institute of Automation, Chinese Academy of Science"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2020-02-01"
+  date_end = "2020-05-01"
+  description = """AI Group : Molecular AI application  """
+
+[[experience]]
+  title = "R&D Engineer"
+  company = "Intel Asia & Pacific Co. Ltd."
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2018-07-01"
+  date_end = "2019-07-01"
+  description = """NSG : Data mining, Backend Software development  """
+
+[[experience]]
+  title = "R&D Engineer (Intern)"
+  company = "Intel Asia & Pacific Co. Ltd."
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2018-04-01"
+  date_end = "2018-07-01"
+  description = """NSG : Data mining, Backend Software development  """
+
 
 +++
