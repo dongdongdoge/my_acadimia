@@ -14,24 +14,24 @@ role: PhD Student / RA
 
 # Organizations/Affiliations
 organizations:
-- name: Monash University
-- name: CityU of Hong Kong
+# - name: Monash University
+# - name: CityU of Hong Kong
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network security, privacy, machine learning, blockchain.
+bio: My research interests include network security, privacy, machine learning, blockchain. Specifical
 
 interests:
-- Adversary Machine Learning
+- Secure Multi-party Computation
+- Privacy-preserving Machine Learning 
 - Encrypted Database
-- Privacy Preserving Computation
 
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Monash University
+    # institution: Monash University
     year: 2020
   - course: BSc in Computer Science
-    institution: Shanghai Jiao Tong University
+    # institution: Shanghai Jiao Tong University
     year: 2014
 
 # Social/Academic Networking
@@ -65,6 +65,7 @@ user_groups:
 
 ---
 
-Hello guys, I am wentao. Now I am an PhD Student in Monash University and full time RA in CityU of HongKong. I am interested in AI, Encrypted Database, Privacy Preserving Computation and Block Chain. Let's keep fighting!!!
+Hello guys, this is wentao. I am interested in Privacy Enhancement Technologies, Artificial Intelligence, Encrypted Database and Blockchain. 
 
+Have a nice day! (^_^)
 ---
