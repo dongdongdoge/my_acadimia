@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Hello guys, I am wentao. Now I am an PhD Student in Monash University and full time RA in CityU of HongKong. I am interested in AI, Encrypted Database, Privacy Preserving Computation and Block Chain. Let's keep fighting!!!"
+# description = "Hello guys, I am wentao. Now I am an PhD Student in Monash University and full time RA in CityU of HongKong. I am interested in AI, Encrypted Database, Privacy Preserving Computation and Block Chain. Let's keep fighting!!!"
 
 ############################
 ## Site Features
