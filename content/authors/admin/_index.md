@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student / RA
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
 # - name: CityU of Hong Kong
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network security, privacy, machine learning, blockchain. Specifical
+bio: 
 
 interests:
 - Secure Multi-party Computation
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     # institution: Monash University
-    year: 2020
+    year: 2020/2019
   - course: BSc in Computer Science
     # institution: Shanghai Jiao Tong University
     year: 2014
@@ -65,7 +65,13 @@ user_groups:
 
 ---
 
-Hello guys, this is wentao. I am interested in Privacy Enhancement Technologies, Artificial Intelligence, Encrypted Database and Blockchain. 
+Hello guys, this is Wentao, a previous software engineer, a PhD student, a semi-geek, a basketball enthusiast, an ukulele lover, a ......  
 
-Have a nice day! (^_^)
+I am interested in Privacy Enhancement Technologies, Artificial Intelligence, Encrypted Database.
+
+As well as Portfolio, Precision Medicine ...
+
+Have a nice day! 
+
+Y(^_^)Y 
 ---
