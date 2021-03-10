@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Shanghai"
   date_start = "2017-06-01"
-  date_end = "2018-09-01"
+  date_end = "2017-09-01"
   description = """Ttpic Group: CV algorithm development (Object Detection) """
 
 
