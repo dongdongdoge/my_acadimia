@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hongkong"
   date_start = "2020-09-06"
-  date_end = ""
-  description = """CS Department : Secure data sharing with advanced knowledge"""
+  date_end = "2021-03-06"
+  description = """CS Department : Secure data sharing with advanced knowledge (SMPC)"""
 
 [[experience]]
   title = "Linux Kernel Software Engineer"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Shenzhen"
   date_start = "2020-05-01"
   date_end = "2020-08-31"
-  description = """AF Department : NGFW, Intrusion Prevention System """
+  description = """AF Department : NGFW, Intrusion Prevention System (IPS) """
 
 [[experience]]
   title = "Research Assistant (Remote Intern)"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2020-02-01"
   date_end = "2020-05-01"
-  description = """AI Group : Molecular AI application  """
+  description = """AI Group : Molecular AI application (Transformer) """
 
 [[experience]]
   title = "R&D Engineer"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2018-07-01"
   date_end = "2019-07-01"
-  description = """NSG : Data mining, Backend Software development  """
+  description = """NSG : Data mining, backend software development (C & Python) """
 
 [[experience]]
   title = "R&D Engineer (Intern)"
@@ -60,7 +60,26 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2018-04-01"
   date_end = "2018-07-01"
-  description = """NSG : Data mining, Backend Software development  """
+  description = """NSG : Data mining, backend software development  (C & Python)"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Shanghai Jiao Tong University"
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2017-10-01"
+  date_end = "2018-04-01"
+  description = """LoCCS: Blockchain & consensus algorithm (Lightning network & PoW) """
+
+
+[[experience]]
+  title = "Software Engineer (Intern)"
+  company = "Tencent Technology (Shanghai) Co. Ltd."
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2017-06-01"
+  date_end = "2018-09-01"
+  description = """Ttpic Group: CV algorithm development (Object Detection) """
 
 
 +++
