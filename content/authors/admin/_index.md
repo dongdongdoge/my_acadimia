@@ -65,13 +65,13 @@ user_groups:
 
 ---
 
-Hello guys, this is Wentao, a previous software engineer, a PhD student, a semi-geek, a basketball enthusiast, an ukulele lover, a ......  
+Hello guys, this is Wentao Dong, a previous software engineer, a current PhD student, a semi-basketball enthusiast, a 53% ukulele lover, a ......  
 
-I am interested in Privacy Enhancement Technologies, Artificial Intelligence, Encrypted Database.
+I am interested in Privacy Enhancement Technologies, Artificial Intelligence, Encrypted Database, Block Chain ...
 
-As well as Portfolio, Precision Medicine ...
+As well as Financial Portfolio, Precision Medicine, and any other scenario where privacy computing can be brought to our day-to-day life ...
 
-Have a nice day! 
+Have a nice day! (^_^) 
 
-Y(^_^)Y 
+
 ---
