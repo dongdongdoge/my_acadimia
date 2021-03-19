@@ -173,7 +173,7 @@ abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = []
+plugins_js  = ["custom"]
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
@@ -183,7 +183,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
@@ -213,7 +213,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = true, project = true, publication = true, talk = true}
@@ -280,7 +280,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = false
+  netlify_cms = true
 
 ############################
 ## Icon Pack Extensions
