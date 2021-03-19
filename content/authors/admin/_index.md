@@ -66,9 +66,9 @@ user_groups:
 
 ---
 
-Hello guys, this is Wentao DONG, a former software engineer, a current PhD student, a semi-basketball enthusiast, a 53.618% ukulele lover, **a nobody who wants to be somebody**.  
+<p style="text-align:justify;"> Hello guys, this is Wentao DONG, a former software engineer, a current PhD student, a semi-basketball enthusiast, a 53.618% ukulele lover, <b>a nobody who wants to be somebody</b>. </p>
 
-I am interested in _Privacy Enhancement Technologies_, _Artificial Intelligence_, _Encrypted Database_, _Blockchain_, as well as _Financial Portfolio_, _Precision Medicine_, and any other scenario where privacy-preserving computation can be brought to our day-to-day life (applicable & practical), if it is also your cup of tea, please contact me via [here](mailto:dongdongdoge@gmail.com).
+<p style="text-align:justify;"> I am interested in <u><i>Privacy Enhancement Technologies</i></u>, <u><i>AI</i></u>, <u><i>Encrypted Database</i></u>, <u><i>Blockchain</i></u>, as well as <u><i>Financial Portfolio</i></u>, <u><i>Precision Medicine</i></u>, and any other scenarios where privacy-preserving computation can be brought to our day-to-day life (applicable & practical), if it is also your cup of tea, please contact me via <a href="mailto:dongdongdoge@gmail.com">here</a>.</p>
 
-_Talk is cheap, so I am trying to get something done._
+_As we all know, talk is cheap, so I am trying to get something done._
 

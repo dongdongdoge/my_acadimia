@@ -70,7 +70,8 @@ projects: []
     })
     ```
 - 在有更多需求的情况下，请支持付费版<del>，原则上讲，所有feature都可以customize来实现</del>
-
+---
+<p style="color:red;text-align:center">(转载请注明出处)</p>
 
 
 
