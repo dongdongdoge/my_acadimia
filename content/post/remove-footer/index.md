@@ -1,10 +1,9 @@
 ---
-title: 'Remove footer via JS for Wowchemy Themes (free edition)'
+title: 'Hide Published With Wowchemy (free edition)'
 subtitle: ''
 summary: '利用js去除Wowchemy构建个人网站的脚注广告'
 authors: 
 - admin
-- another person
 
 tags:
 - 网站
@@ -25,7 +24,7 @@ image:
   placement: 1
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -36,7 +35,7 @@ projects: []
 ---
 
 - 免费版本会有以下字样，最不能忍的是因此导致的scrollbar
-![](./feature.png)
+![](./featured.png)
 - 在付费版本feature并没有很香的情况下，查文档得知`/config/_default/params.toml`中可以加载用户自定义js
 ![](./1.png)
 - 简单利用DOM知识消除该元素，代码如下
@@ -70,7 +69,7 @@ projects: []
         y.remove()
     })
     ```
-- 在有更多需求的情况下，请支持付费版
+- 在有更多需求的情况下，请支持付费版<del>，原则上讲，所有feature都可以customize来实现</del>
 
 
 
