@@ -1,7 +1,7 @@
 ---
 title: 'Hide Published With Wowchemy (free edition)'
 subtitle: ''
-summary: '利用js去除Wowchemy构建个人网站的脚注广告'
+summary: 'js去除 Wowchemy+Netlify 部署的网站广告'
 authors: 
 - admin
 

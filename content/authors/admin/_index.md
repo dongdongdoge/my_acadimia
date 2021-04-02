@@ -70,5 +70,5 @@ user_groups:
 
 <p style="text-align:justify;"> I am interested in <u><i>Privacy Enhancement Technologies</i></u>, <u><i>AI</i></u>, <u><i>Encrypted Database</i></u>, <u><i>Blockchain</i></u>, as well as <u><i>Financial Portfolio</i></u>, <u><i>Precision Medicine</i></u>, and any other scenarios where privacy-preserving computation can be brought to our day-to-day life (applicable & practical), if it is also your cup of tea, please contact me via <a href="mailto:dongdongdoge@gmail.com">here</a>.</p>
 
-_As we all know, talk is cheap, so I am trying to get something done._
+<p style="text-align:justify;"><i> As is known to all, talk is cheap, so I am trying to get something done.</i> </p>
 
