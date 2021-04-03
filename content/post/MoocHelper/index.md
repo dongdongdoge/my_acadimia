@@ -1,15 +1,15 @@
 ---
-title: '超星mooc自动化学习...'
+title: 'Chaoxing Mooc Auto Learning'
 subtitle: ''
-summary: 'selenium播放课程自动化'
+summary: 'selenium自动化播放课程'
 authors: 
 - admin
 
 tags:
-- Mooc刷课
+- 刷课code
  
 categories:
-- 玩具程序
+- toy
 
 date: "2020-03-30"
 lastmod: ""
