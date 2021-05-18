@@ -71,4 +71,3 @@ user_groups:
 <p style="text-align:justify;"> I am interested in <u><i>Privacy Enhancement Technologies</i></u>, <u><i>AI</i></u>, <u><i>Encrypted Database</i></u>, <u><i>Blockchain</i></u>, as well as <u><i>Financial Portfolio</i></u>, <u><i>Precision Medicine</i></u>, and any other scenarios where privacy-preserving computation can be brought to our day-to-day life (applicable & practical one-off system). 
 
 <p style="text-align:justify;"> As is known to all, talk is cheap, so let's try to get something done. </p>
-
